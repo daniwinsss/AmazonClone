@@ -1,2 +1,2 @@
-# Clone
-AmazonClone
+first clone 
+its of amazon
