@@ -81,7 +81,7 @@
 .flag{
     height: 16px; /* Adjust height and width */
     width: 25px;
-    background-image: url(/allaboutgithub/AmazonClone/amazonclone/americanflag.png);
+    background-image: url("/allaboutgithub/AmazonClone/amazonclone/americanflag.png");
     background-size: cover;
     background-position: center;
     margin-left: 5px; /* Optional: To adjust spacing */
