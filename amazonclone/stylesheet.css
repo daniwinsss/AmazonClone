@@ -16,7 +16,7 @@
     width: 113px ;
 }
 .logo{
-    background-image: url("amazonlogo.png");
+    background-image: url("/allaboutgithub/AmazonClone/amazonclone/amazonlogo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -81,7 +81,7 @@
 .flag{
     height: 16px; /* Adjust height and width */
     width: 25px;
-    background-image: url("/amazonclone/americanflag.png");
+    background-image: url(/allaboutgithub/AmazonClone/amazonclone/americanflag.png);
     background-size: cover;
     background-position: center;
     margin-left: 5px; /* Optional: To adjust spacing */
@@ -148,7 +148,7 @@
 }
 /*mid section*/
 .midsection{
-    background-image: url("/amazonclone/hero_image2.jpg");
+    background-image: url("/allaboutgithub/AmazonClone/amazonclone/hero_image2.jpg");
     height: 400px;
     background-size: cover;
     display: flex;
@@ -229,7 +229,7 @@
     align-items: center;
 }
 .logo{
-    background-image: url("amazonlogo.png");
+    background-image: url("/allaboutgithub/AmazonClone/amazonclone/amazonlogo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
